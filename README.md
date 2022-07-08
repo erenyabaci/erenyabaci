@@ -17,6 +17,6 @@ Ben Eren, aslen endüstiriyel bakım onarım ile uğraşıyorum daha çok PLC'le
 <h2 align="center">Github Değerlerim </h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erenyabaci">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenyabaci&layout=compact&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenyabaci" height="180">
   
 </p>
