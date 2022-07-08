@@ -21,3 +21,4 @@ Ben Eren, aslen endüstiriyel bakım onarım ile uğraşıyorum daha çok PLC'le
   
 
 </p>
+
