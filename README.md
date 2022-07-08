@@ -15,8 +15,8 @@ Ben Eren, aslen endüstiriyel bakım onarım ile uğraşıyorum daha çok PLC'le
 <p align="center"> <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://new.siemens.com/tr/tr.html?acz=1&gclid=CjwKCAjwq5-WBhB7EiwAl-HEktbSuRH4J3t2_BlVosuIJ5f4evGH4O8EVgk6IFJ3iXRcRnoJzQbv5xoCixwQAvD_BwE" target="_blank"> <img src="https://www.vectorlogo.zone/logos/siemens/siemens-icon.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <h2 align="center">Github Değerlerim </h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erenyabaci" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenyabaci" height="180">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=erenyabaci" align="right" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenyabaci" algin="left" height="180">
   
-</p>
+
